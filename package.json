@@ -1,0 +1,17 @@
+{
+  "name": "Polyp",
+  "version": "0.1.0",
+  "description": "Polyp. Create simple polls.",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-sass": "~0.5.1"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "izolate",
+  "license": "BSD-2-Clause",
+  "homepage": ""
+}
